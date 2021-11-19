@@ -1,0 +1,4 @@
+ Если мы отправим(запушим)наши изменения с локального компютера на удаленный, без предварительной проверки изменений(git pull), мы создадим ответвление(branch) в нашем репозитории на GitHub.
+Create a pull request for 'master' on GitHub by visiting:
+  https://github.com/Migeya/RepoNameAndriyForMerge-/pull/new/master
+ Чтобы обьединить ветки нужно нажать "Open a pull request" и потом "Split" 
